@@ -109,7 +109,8 @@ h3{
     color: #ffffff;
     background-color: #1d1d1d;
     padding: 15px;
-    margin: 30px 820px;
+    margin: 30px auto;
+    text-align: center;
 }
 
 a{
